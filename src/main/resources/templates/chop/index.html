@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+    <link rel="stylesheet" href="/table1.css">
+</head>
+
+<body>
+
+
+<header class="header">
+    <div class="log_out">
+        <a class="tag" href="/auth/login">Выйти</a>
+    </div>
+</header>
+<div class="container">
+    <form th:action="@{/chops(pageSize=${pageSize}, isSort=${isSort})}">
+        <div class="search">
+            <label for="number">Номер : </label>
+            <input type="text" th:name="number" id="number"/>
+            <input type="submit" value="Искать"/><br/>
+        </div>
+        <br/>
+
+        <div class="tbl-header">
+            <table border="1">
+                <thead>
+                <tr>
+                    <th th:text="id"/>
+                    <th th:text="number"/>
+                    <th th:text="name"/>
+                    <th th:text="description"/>
+                </tr>
+                </thead>
+            </table>
+        </div>
+        <div class="tbl-content">
+            <table>
+                <tbody>
+                <tr th:each="chop : ${chops}">
+                    <td th:text="${chop.getId()}"/>
+                    <td th:text="${chop.getNumber()}"/>
+                    <td th:text="${chop.getName()}"/>
+                    <td th:text="${chop.getDescription()}"/>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="pagination_container">
+            <ul class="pagination">
+
+                    <li>
+                        <a href="#">Пред</a>
+                    </li>
+                    <li th:if="${chopsPages.getTotalPages() > 0}"
+                        th:each="pageNumber : ${pageNumbers}">
+                        <a th:href="@{/chops(pageSize=${size}, offset=${pageNumber} - 1)}"
+                           th:text="${pageNumber}"
+                           th:style="${pageNumber==offset+1 ? 'background: rgba(255, 255, 255, 0.2);' : ''}">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">След</a>
+                    </li>
+
+            </ul>
+        </div>
+        <br/><br/>
+
+
+        <label for="pageSize">Page size</label>
+        <input type="number" th:name="pageSize" id="pageSize" min="1" max="100"/><br/>
+
+    </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Show</title>
+</head>
+<body>
+<p th:text="${chop.getId()}">id</p>
+<p th:text="${chop.getName()}">name</p>
+
+<a th:href="@{/chops/{id}/edit(id=${chop.getId()})}">Edit</a>
+
+
+</body>
+</html>

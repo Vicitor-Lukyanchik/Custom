@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="/login.css">
+</head>
+<body>
+<div class="login-box">
+    <div th:if="${isNotLogin}">
+        <div class="error" th:text="${errorMessage}"></div>
+    </div>
+
+    <form th:method="POST" th:action="@{/auth/login}" th:object="${login}">
+        <div class="user-box">
+            <input type="text" th:field="*{username}" id="username"/>
+            <label for="username">Enter username: </label>
+        </div>
+        <div class="user-box">
+            <input type="text" th:field="*{password}" id="password"/>
+            <label for="password">Enter password: </label>
+        </div>
+        <input class="a" type="submit" value="login"/>
+    </form>
+</div>
+</body>
+</html>
