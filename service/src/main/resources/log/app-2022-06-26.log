@@ -1,0 +1,318 @@
+2022-06-26 19:14:13 INFO  FriendsServiceImpl:41 - In create - friends successfully have been created by id : null
+2022-06-26 19:14:13 WARN  FriendsServiceImpl:69 - IN findById - haven't founded friends by id: 1
+2022-06-26 19:14:13 INFO  FriendsServiceImpl:73 - IN findById - have founded friends by id: 1
+2022-06-26 19:14:13 INFO  GroupServiceImpl:39 - Group with id : 1 is exist
+2022-06-26 19:14:13 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:14:13 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:14:13 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:14:13 INFO  GroupServiceImpl:60 - In update - group successfully have been updated by id : 1
+2022-06-26 19:14:13 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:14:13 INFO  GroupServiceImpl:43 - In create - group successfully have been created by id : 1
+2022-06-26 19:14:14 WARN  InterestServiceImpl:51 - IN findByName - haven't founded by name: Apl
+2022-06-26 19:14:14 INFO  InterestServiceImpl:55 - IN findByName - have founded interest by name: Apl
+2022-06-26 19:14:14 INFO  InterestServiceImpl:37 - In create - interest successfully have been created by id : 1
+2022-06-26 19:14:14 INFO  MessageServiceImpl:39 - In create - message successfully have been created by id : null
+2022-06-26 19:14:14 WARN  MessageServiceImpl:50 - In update - message haven't been updated by id : 1
+2022-06-26 19:14:14 INFO  MessageServiceImpl:54 - In update - message successfully have been updated by id : 1
+2022-06-26 19:14:14 INFO  MessageServiceImpl:66 - In findAll - messages successfully have been founded, size : 1
+2022-06-26 19:14:14 INFO  PostServiceImpl:58 - In update - post successfully have been updated by id : 1
+2022-06-26 19:14:14 INFO  PostServiceImpl:41 - In create - post successfully have been created by id : null
+2022-06-26 19:14:14 INFO  PostServiceImpl:102 - In findAll - post successfully have been founded, size : 1
+2022-06-26 19:14:14 INFO  PostServiceImpl:76 - In delete - post successfully have been deleted by id : 1
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:14:15 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:50 - In update - profile successfully have been updated by id : null
+2022-06-26 19:14:15 WARN  ProfileServiceImpl:64 - IN findByUser - haven't founded profile by user id: 1
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:94 - In findAllMessages - messages successfully have been founded, size : 1
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:14:15 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:68 - IN findByUser - have founded profile by user id: 1
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:149 - In sendMessage - message successfully have been sent
+2022-06-26 19:14:15 WARN  ProfileServiceImpl:163 - IN findById - haven't founded profile by id: 1
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:14:15 WARN  ProfileServiceImpl:138 - Can't send messages by yourself
+2022-06-26 19:14:15 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:14:16 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:14:16 INFO  UserServiceImpl:146 - IN findById - have founded user by id: 1
+2022-06-26 19:14:16 INFO  UserServiceImpl:127 - IN updateRoleGroupManager - have added role group manager in user with username : useruser
+2022-06-26 19:14:16 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:14:16 INFO  UserServiceImpl:70 - IN register - user successfully have been registered with username : useruser
+2022-06-26 19:14:16 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:14:16 INFO  UserServiceImpl:146 - IN findById - have founded user by id: null
+2022-06-26 19:14:16 INFO  UserServiceImpl:110 - IN findByUsername - have founded user by username: useruser
+2022-06-26 19:14:16 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:30:07 INFO  FriendsServiceImpl:41 - In create - friends successfully have been created by id : null
+2022-06-26 19:30:07 WARN  FriendsServiceImpl:69 - IN findById - haven't founded friends by id: 1
+2022-06-26 19:30:07 INFO  FriendsServiceImpl:73 - IN findById - have founded friends by id: 1
+2022-06-26 19:30:07 INFO  GroupServiceImpl:39 - Group with id : 1 is exist
+2022-06-26 19:30:07 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:30:08 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:30:08 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:30:08 INFO  GroupServiceImpl:60 - In update - group successfully have been updated by id : 1
+2022-06-26 19:30:08 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:30:08 INFO  GroupServiceImpl:43 - In create - group successfully have been created by id : 1
+2022-06-26 19:30:08 WARN  InterestServiceImpl:51 - IN findByName - haven't founded by name: Apl
+2022-06-26 19:30:08 INFO  InterestServiceImpl:55 - IN findByName - have founded interest by name: Apl
+2022-06-26 19:30:08 INFO  InterestServiceImpl:37 - In create - interest successfully have been created by id : 1
+2022-06-26 19:30:08 INFO  MessageServiceImpl:39 - In create - message successfully have been created by id : null
+2022-06-26 19:30:08 WARN  MessageServiceImpl:50 - In update - message haven't been updated by id : 1
+2022-06-26 19:30:08 INFO  MessageServiceImpl:54 - In update - message successfully have been updated by id : 1
+2022-06-26 19:30:08 INFO  MessageServiceImpl:66 - In findAll - messages successfully have been founded, size : 1
+2022-06-26 19:30:08 INFO  PostServiceImpl:58 - In update - post successfully have been updated by id : 1
+2022-06-26 19:30:08 INFO  PostServiceImpl:41 - In create - post successfully have been created by id : null
+2022-06-26 19:30:08 INFO  PostServiceImpl:102 - In findAll - post successfully have been founded, size : 1
+2022-06-26 19:30:09 INFO  PostServiceImpl:76 - In delete - post successfully have been deleted by id : 1
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:30:09 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:50 - In update - profile successfully have been updated by id : null
+2022-06-26 19:30:09 WARN  ProfileServiceImpl:64 - IN findByUser - haven't founded profile by user id: 1
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:94 - In findAllMessages - messages successfully have been founded, size : 1
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:30:09 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:68 - IN findByUser - have founded profile by user id: 1
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:149 - In sendMessage - message successfully have been sent
+2022-06-26 19:30:09 WARN  ProfileServiceImpl:163 - IN findById - haven't founded profile by id: 1
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:30:09 WARN  ProfileServiceImpl:138 - Can't send messages by yourself
+2022-06-26 19:30:09 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:30:10 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:30:10 INFO  UserServiceImpl:146 - IN findById - have founded user by id: 1
+2022-06-26 19:30:10 INFO  UserServiceImpl:127 - IN updateRoleGroupManager - have added role group manager in user with username : useruser
+2022-06-26 19:30:10 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:30:10 INFO  UserServiceImpl:70 - IN register - user successfully have been registered with username : useruser
+2022-06-26 19:30:10 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:30:10 INFO  UserServiceImpl:146 - IN findById - have founded user by id: null
+2022-06-26 19:30:10 INFO  UserServiceImpl:110 - IN findByUsername - have founded user by username: useruser
+2022-06-26 19:30:10 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:31:16 INFO  FriendsServiceImpl:41 - In create - friends successfully have been created by id : null
+2022-06-26 19:31:16 WARN  FriendsServiceImpl:69 - IN findById - haven't founded friends by id: 1
+2022-06-26 19:31:16 INFO  FriendsServiceImpl:73 - IN findById - have founded friends by id: 1
+2022-06-26 19:31:16 INFO  GroupServiceImpl:39 - Group with id : 1 is exist
+2022-06-26 19:31:16 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:31:17 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:31:17 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:31:17 INFO  GroupServiceImpl:60 - In update - group successfully have been updated by id : 1
+2022-06-26 19:31:17 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:31:17 INFO  GroupServiceImpl:43 - In create - group successfully have been created by id : 1
+2022-06-26 19:31:17 WARN  InterestServiceImpl:51 - IN findByName - haven't founded by name: Apl
+2022-06-26 19:31:17 INFO  InterestServiceImpl:55 - IN findByName - have founded interest by name: Apl
+2022-06-26 19:31:17 INFO  InterestServiceImpl:37 - In create - interest successfully have been created by id : 1
+2022-06-26 19:31:17 INFO  MessageServiceImpl:39 - In create - message successfully have been created by id : null
+2022-06-26 19:31:17 WARN  MessageServiceImpl:50 - In update - message haven't been updated by id : 1
+2022-06-26 19:31:17 INFO  MessageServiceImpl:54 - In update - message successfully have been updated by id : 1
+2022-06-26 19:31:17 INFO  MessageServiceImpl:66 - In findAll - messages successfully have been founded, size : 1
+2022-06-26 19:31:17 INFO  PostServiceImpl:58 - In update - post successfully have been updated by id : 1
+2022-06-26 19:31:18 INFO  PostServiceImpl:41 - In create - post successfully have been created by id : null
+2022-06-26 19:31:18 INFO  PostServiceImpl:102 - In findAll - post successfully have been founded, size : 1
+2022-06-26 19:31:18 INFO  PostServiceImpl:76 - In delete - post successfully have been deleted by id : 1
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:31:18 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:50 - In update - profile successfully have been updated by id : null
+2022-06-26 19:31:18 WARN  ProfileServiceImpl:64 - IN findByUser - haven't founded profile by user id: 1
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:94 - In findAllMessages - messages successfully have been founded, size : 1
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:31:18 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:68 - IN findByUser - have founded profile by user id: 1
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:149 - In sendMessage - message successfully have been sent
+2022-06-26 19:31:18 WARN  ProfileServiceImpl:163 - IN findById - haven't founded profile by id: 1
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:31:18 WARN  ProfileServiceImpl:138 - Can't send messages by yourself
+2022-06-26 19:31:18 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:31:19 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:31:19 INFO  UserServiceImpl:146 - IN findById - have founded user by id: 1
+2022-06-26 19:31:19 INFO  UserServiceImpl:127 - IN updateRoleGroupManager - have added role group manager in user with username : useruser
+2022-06-26 19:31:19 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:31:19 INFO  UserServiceImpl:70 - IN register - user successfully have been registered with username : useruser
+2022-06-26 19:31:19 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:31:19 INFO  UserServiceImpl:146 - IN findById - have founded user by id: null
+2022-06-26 19:31:19 INFO  UserServiceImpl:110 - IN findByUsername - have founded user by username: useruser
+2022-06-26 19:31:19 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:50:09 INFO  FriendsServiceImpl:41 - In create - friends successfully have been created by id : null
+2022-06-26 19:50:09 WARN  FriendsServiceImpl:69 - IN findById - haven't founded friends by id: 1
+2022-06-26 19:50:09 INFO  FriendsServiceImpl:73 - IN findById - have founded friends by id: 1
+2022-06-26 19:50:09 INFO  GroupServiceImpl:39 - Group with id : 1 is exist
+2022-06-26 19:50:09 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:50:09 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:50:09 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:50:09 INFO  GroupServiceImpl:60 - In update - group successfully have been updated by id : 1
+2022-06-26 19:50:09 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:50:09 INFO  GroupServiceImpl:43 - In create - group successfully have been created by id : 1
+2022-06-26 19:50:10 WARN  InterestServiceImpl:51 - IN findByName - haven't founded by name: Apl
+2022-06-26 19:50:10 INFO  InterestServiceImpl:55 - IN findByName - have founded interest by name: Apl
+2022-06-26 19:50:10 INFO  InterestServiceImpl:37 - In create - interest successfully have been created by id : 1
+2022-06-26 19:50:10 INFO  MessageServiceImpl:39 - In create - message successfully have been created by id : null
+2022-06-26 19:50:10 WARN  MessageServiceImpl:50 - In update - message haven't been updated by id : 1
+2022-06-26 19:50:10 INFO  MessageServiceImpl:54 - In update - message successfully have been updated by id : 1
+2022-06-26 19:50:10 INFO  MessageServiceImpl:66 - In findAll - messages successfully have been founded, size : 1
+2022-06-26 19:50:10 INFO  PostServiceImpl:58 - In update - post successfully have been updated by id : 1
+2022-06-26 19:50:10 INFO  PostServiceImpl:41 - In create - post successfully have been created by id : null
+2022-06-26 19:50:10 INFO  PostServiceImpl:102 - In findAll - post successfully have been founded, size : 1
+2022-06-26 19:50:10 INFO  PostServiceImpl:76 - In delete - post successfully have been deleted by id : 1
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:50:11 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:50 - In update - profile successfully have been updated by id : null
+2022-06-26 19:50:11 WARN  ProfileServiceImpl:64 - IN findByUser - haven't founded profile by user id: 1
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:94 - In findAllMessages - messages successfully have been founded, size : 1
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:50:11 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:68 - IN findByUser - have founded profile by user id: 1
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:149 - In sendMessage - message successfully have been sent
+2022-06-26 19:50:11 WARN  ProfileServiceImpl:163 - IN findById - haven't founded profile by id: 1
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:50:11 WARN  ProfileServiceImpl:138 - Can't send messages by yourself
+2022-06-26 19:50:11 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:50:11 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:50:11 INFO  UserServiceImpl:146 - IN findById - have founded user by id: 1
+2022-06-26 19:50:11 INFO  UserServiceImpl:127 - IN updateRoleGroupManager - have added role group manager in user with username : useruser
+2022-06-26 19:50:11 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:50:11 INFO  UserServiceImpl:70 - IN register - user successfully have been registered with username : useruser
+2022-06-26 19:50:11 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:50:12 INFO  UserServiceImpl:146 - IN findById - have founded user by id: null
+2022-06-26 19:50:12 INFO  UserServiceImpl:110 - IN findByUsername - have founded user by username: useruser
+2022-06-26 19:50:12 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:57:40 INFO  FriendsServiceImpl:41 - In create - friends successfully have been created by id : null
+2022-06-26 19:57:40 WARN  FriendsServiceImpl:69 - IN findById - haven't founded friends by id: 1
+2022-06-26 19:57:40 INFO  FriendsServiceImpl:73 - IN findById - have founded friends by id: 1
+2022-06-26 19:57:40 INFO  GroupServiceImpl:39 - Group with id : 1 is exist
+2022-06-26 19:57:40 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:57:40 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:57:40 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:57:40 INFO  GroupServiceImpl:60 - In update - group successfully have been updated by id : 1
+2022-06-26 19:57:40 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:57:40 INFO  GroupServiceImpl:43 - In create - group successfully have been created by id : 1
+2022-06-26 19:57:41 WARN  InterestServiceImpl:51 - IN findByName - haven't founded by name: Apl
+2022-06-26 19:57:41 INFO  InterestServiceImpl:55 - IN findByName - have founded interest by name: Apl
+2022-06-26 19:57:41 INFO  InterestServiceImpl:37 - In create - interest successfully have been created by id : 1
+2022-06-26 19:57:41 INFO  MessageServiceImpl:39 - In create - message successfully have been created by id : null
+2022-06-26 19:57:41 WARN  MessageServiceImpl:50 - In update - message haven't been updated by id : 1
+2022-06-26 19:57:41 INFO  MessageServiceImpl:54 - In update - message successfully have been updated by id : 1
+2022-06-26 19:57:41 INFO  MessageServiceImpl:66 - In findAll - messages successfully have been founded, size : 1
+2022-06-26 19:57:41 INFO  PostServiceImpl:58 - In update - post successfully have been updated by id : 1
+2022-06-26 19:57:41 INFO  PostServiceImpl:41 - In create - post successfully have been created by id : null
+2022-06-26 19:57:41 INFO  PostServiceImpl:102 - In findAll - post successfully have been founded, size : 1
+2022-06-26 19:57:41 INFO  PostServiceImpl:76 - In delete - post successfully have been deleted by id : 1
+2022-06-26 19:57:41 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:57:41 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:57:41 INFO  ProfileServiceImpl:50 - In update - profile successfully have been updated by id : null
+2022-06-26 19:57:41 WARN  ProfileServiceImpl:64 - IN findByUser - haven't founded profile by user id: 1
+2022-06-26 19:57:41 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:57:41 INFO  ProfileServiceImpl:94 - In findAllMessages - messages successfully have been founded, size : 1
+2022-06-26 19:57:41 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:57:41 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:57:41 INFO  ProfileServiceImpl:68 - IN findByUser - have founded profile by user id: 1
+2022-06-26 19:57:42 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:57:42 INFO  ProfileServiceImpl:149 - In sendMessage - message successfully have been sent
+2022-06-26 19:57:42 WARN  ProfileServiceImpl:163 - IN findById - haven't founded profile by id: 1
+2022-06-26 19:57:42 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:57:42 WARN  ProfileServiceImpl:138 - Can't send messages by yourself
+2022-06-26 19:57:42 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:57:42 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:57:42 INFO  UserServiceImpl:146 - IN findById - have founded user by id: 1
+2022-06-26 19:57:42 INFO  UserServiceImpl:127 - IN updateRoleGroupManager - have added role group manager in user with username : useruser
+2022-06-26 19:57:42 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:57:42 INFO  UserServiceImpl:70 - IN register - user successfully have been registered with username : useruser
+2022-06-26 19:57:42 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:57:42 INFO  UserServiceImpl:146 - IN findById - have founded user by id: null
+2022-06-26 19:57:42 INFO  UserServiceImpl:110 - IN findByUsername - have founded user by username: useruser
+2022-06-26 19:57:42 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:59:36 INFO  FriendsServiceImpl:41 - In create - friends successfully have been created by id : null
+2022-06-26 19:59:36 WARN  FriendsServiceImpl:69 - IN findById - haven't founded friends by id: 1
+2022-06-26 19:59:36 INFO  FriendsServiceImpl:73 - IN findById - have founded friends by id: 1
+2022-06-26 19:59:36 INFO  GroupServiceImpl:39 - Group with id : 1 is exist
+2022-06-26 19:59:36 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:59:36 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:59:36 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 19:59:36 INFO  GroupServiceImpl:60 - In update - group successfully have been updated by id : 1
+2022-06-26 19:59:36 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 19:59:36 INFO  GroupServiceImpl:43 - In create - group successfully have been created by id : 1
+2022-06-26 19:59:36 WARN  InterestServiceImpl:51 - IN findByName - haven't founded by name: Apl
+2022-06-26 19:59:36 INFO  InterestServiceImpl:55 - IN findByName - have founded interest by name: Apl
+2022-06-26 19:59:36 INFO  InterestServiceImpl:37 - In create - interest successfully have been created by id : 1
+2022-06-26 19:59:36 INFO  MessageServiceImpl:39 - In create - message successfully have been created by id : null
+2022-06-26 19:59:36 WARN  MessageServiceImpl:50 - In update - message haven't been updated by id : 1
+2022-06-26 19:59:37 INFO  MessageServiceImpl:54 - In update - message successfully have been updated by id : 1
+2022-06-26 19:59:37 INFO  MessageServiceImpl:66 - In findAll - messages successfully have been founded, size : 1
+2022-06-26 19:59:37 INFO  PostServiceImpl:58 - In update - post successfully have been updated by id : 1
+2022-06-26 19:59:37 INFO  PostServiceImpl:41 - In create - post successfully have been created by id : null
+2022-06-26 19:59:37 INFO  PostServiceImpl:102 - In findAll - post successfully have been founded, size : 1
+2022-06-26 19:59:37 INFO  PostServiceImpl:76 - In delete - post successfully have been deleted by id : 1
+2022-06-26 19:59:37 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:59:37 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:59:37 INFO  ProfileServiceImpl:50 - In update - profile successfully have been updated by id : null
+2022-06-26 19:59:37 WARN  ProfileServiceImpl:64 - IN findByUser - haven't founded profile by user id: 1
+2022-06-26 19:59:37 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:59:37 INFO  ProfileServiceImpl:94 - In findAllMessages - messages successfully have been founded, size : 1
+2022-06-26 19:59:37 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:59:37 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 19:59:37 INFO  ProfileServiceImpl:68 - IN findByUser - have founded profile by user id: 1
+2022-06-26 19:59:37 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 19:59:37 INFO  ProfileServiceImpl:149 - In sendMessage - message successfully have been sent
+2022-06-26 19:59:37 WARN  ProfileServiceImpl:163 - IN findById - haven't founded profile by id: 1
+2022-06-26 19:59:37 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:59:37 WARN  ProfileServiceImpl:138 - Can't send messages by yourself
+2022-06-26 19:59:38 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 19:59:38 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:59:38 INFO  UserServiceImpl:146 - IN findById - have founded user by id: 1
+2022-06-26 19:59:38 INFO  UserServiceImpl:127 - IN updateRoleGroupManager - have added role group manager in user with username : useruser
+2022-06-26 19:59:38 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 19:59:38 INFO  UserServiceImpl:70 - IN register - user successfully have been registered with username : useruser
+2022-06-26 19:59:38 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 19:59:38 INFO  UserServiceImpl:146 - IN findById - have founded user by id: null
+2022-06-26 19:59:38 INFO  UserServiceImpl:110 - IN findByUsername - have founded user by username: useruser
+2022-06-26 19:59:38 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 20:05:45 INFO  FriendsServiceImpl:41 - In create - friends successfully have been created by id : null
+2022-06-26 20:05:45 WARN  FriendsServiceImpl:69 - IN findById - haven't founded friends by id: 1
+2022-06-26 20:05:45 INFO  FriendsServiceImpl:73 - IN findById - have founded friends by id: 1
+2022-06-26 20:07:46 INFO  FriendsServiceImpl:41 - In create - friends successfully have been created by id : null
+2022-06-26 20:07:46 WARN  FriendsServiceImpl:69 - IN findById - haven't founded friends by id: 1
+2022-06-26 20:07:46 INFO  FriendsServiceImpl:73 - IN findById - have founded friends by id: 1
+2022-06-26 20:07:47 INFO  GroupServiceImpl:39 - Group with id : 1 is exist
+2022-06-26 20:07:47 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 20:07:47 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 20:07:47 INFO  GroupServiceImpl:78 - IN findById - have founded group by id: 1
+2022-06-26 20:07:47 INFO  GroupServiceImpl:60 - In update - group successfully have been updated by id : 1
+2022-06-26 20:07:47 WARN  GroupServiceImpl:74 - IN findById - haven't founded group by id: 1
+2022-06-26 20:07:47 INFO  GroupServiceImpl:43 - In create - group successfully have been created by id : 1
+2022-06-26 20:07:47 WARN  InterestServiceImpl:51 - IN findByName - haven't founded by name: Apl
+2022-06-26 20:07:47 INFO  InterestServiceImpl:55 - IN findByName - have founded interest by name: Apl
+2022-06-26 20:07:47 INFO  InterestServiceImpl:37 - In create - interest successfully have been created by id : 1
+2022-06-26 20:07:47 INFO  MessageServiceImpl:39 - In create - message successfully have been created by id : null
+2022-06-26 20:07:47 WARN  MessageServiceImpl:50 - In update - message haven't been updated by id : 1
+2022-06-26 20:07:47 INFO  MessageServiceImpl:54 - In update - message successfully have been updated by id : 1
+2022-06-26 20:07:47 INFO  MessageServiceImpl:66 - In findAll - messages successfully have been founded, size : 1
+2022-06-26 20:07:47 INFO  PostServiceImpl:58 - In update - post successfully have been updated by id : 1
+2022-06-26 20:07:48 INFO  PostServiceImpl:41 - In create - post successfully have been created by id : null
+2022-06-26 20:07:48 INFO  PostServiceImpl:102 - In findAll - post successfully have been founded, size : 1
+2022-06-26 20:07:48 INFO  PostServiceImpl:76 - In delete - post successfully have been deleted by id : 1
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 20:07:48 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:50 - In update - profile successfully have been updated by id : null
+2022-06-26 20:07:48 WARN  ProfileServiceImpl:64 - IN findByUser - haven't founded profile by user id: 1
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:94 - In findAllMessages - messages successfully have been founded, size : 1
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 20:07:48 WARN  ProfileServiceImpl:90 - Messages haven't been founded with profile by id : 2
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:68 - IN findByUser - have founded profile by user id: 1
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 2
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:149 - In sendMessage - message successfully have been sent
+2022-06-26 20:07:48 WARN  ProfileServiceImpl:163 - IN findById - haven't founded profile by id: 1
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 20:07:48 WARN  ProfileServiceImpl:138 - Can't send messages by yourself
+2022-06-26 20:07:48 INFO  ProfileServiceImpl:167 - IN findById - have founded profile by id: 1
+2022-06-26 20:07:49 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 20:07:49 INFO  UserServiceImpl:146 - IN findById - have founded user by id: 1
+2022-06-26 20:07:49 INFO  UserServiceImpl:127 - IN updateRoleGroupManager - have added role group manager in user with username : useruser
+2022-06-26 20:07:49 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
+2022-06-26 20:07:49 INFO  UserServiceImpl:70 - IN register - user successfully have been registered with username : useruser
+2022-06-26 20:07:49 WARN  UserServiceImpl:142 - IN findById - haven't founded user by id: 1
+2022-06-26 20:07:49 INFO  UserServiceImpl:146 - IN findById - have founded user by id: null
+2022-06-26 20:07:49 INFO  UserServiceImpl:110 - IN findByUsername - have founded user by username: useruser
+2022-06-26 20:07:49 WARN  UserServiceImpl:106 - IN findByUsername - haven't founded user by username: useruser
